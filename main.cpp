@@ -12,6 +12,8 @@ int main() {
     cin >> a;
     cin >> b;
 
+    cout << endl << "Сумма чисел = " << a + b << endl;
+
     system("pause");
     return 0;
 }
