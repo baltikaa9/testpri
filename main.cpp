@@ -17,6 +17,7 @@ int main() {
     cout << endl << "Сумма чисел = " << a + b << endl;
     cout << endl << "Разность чисел = " << a - b << endl;
     cout << endl << "Частное чисел = " << a / b << endl;
+    //dsasasasasas
 
     system("pause");
     return 0;
